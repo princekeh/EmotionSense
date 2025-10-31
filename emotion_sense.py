@@ -1,5 +1,4 @@
 # EmotionSense - Simple Emotion Detection System
-# Author: Prince S. Agoabuike
 # Description: An amateur-level Python project that detects basic emotions in text using keyword matching.
 
 # Define a simple emotion dictionary
